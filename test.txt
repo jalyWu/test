@@ -1,2 +1,3 @@
 this is the test
-this is simple & nice
+<<<<<<< HEAD
+this is simple and nice
