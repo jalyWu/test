@@ -1,3 +1,2 @@
 this is the test
-<<<<<<< HEAD
 this is simple and nice
